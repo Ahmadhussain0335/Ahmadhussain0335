@@ -1,175 +1,70 @@
-# 🚀 Ahmad Hussain  
-### Senior Android Developer | Kotlin | KMP | Flutter | IoT | Automotive
+# 🚀 Ahmad Hussain | Senior Android & IoT Architect
+**Senior Software Engineer at MRS Electronic Group**
 
-📍 Islamabad, Pakistan  
-📞 +92 311 9209684  
-📧 ahmadhussain0335@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ahmad-hussain-b3268a15a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-hussain-b3268a15a) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadhussain0335@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/Islamabad)
 
----
-
-## 💡 About Me
-
-Senior Android Developer with **9+ years of experience** building scalable, high-performance mobile applications across **Automotive, Healthcare, IoT, Fintech, and E-commerce** domains.
-
-I specialize in **Kotlin, Jetpack Compose, Kotlin Multiplatform (KMP), and Flutter**, with a strong focus on **Clean Architecture, performance optimization, and scalable system design**.
-
-✔ Delivered **25+ production apps**  
-✔ Reduced crash rates by **85%**  
-✔ Improved performance by **40%**  
-✔ Built systems used by **10,000+ active users**
+### 👨‍💻 About Me
+[cite_start]Senior Android Developer with **9+ years of experience** [cite: 95] [cite_start]delivering **25+ production-grade mobile applications**[cite: 99]. [cite_start]I specialize in architecting scalable, high-performance apps across **Automotive, IoT, Fintech, and Healthcare**[cite: 95]. [cite_start]I am an expert in **Kotlin, Java, and Flutter**, with a deep focus on **BLE, MQTT, and CAN Bus** protocols[cite: 96, 98, 111].
 
 ---
 
-## 🛠 Tech Stack
-
-### 📱 Mobile Development
-- **Android:** Kotlin, Java, Jetpack Compose, XML  
-- **Cross-Platform:** Flutter, KMP, Compose Multiplatform  
-
-### 🧠 Architecture & Patterns
-- MVVM, MVI, MVP  
-- Clean Architecture  
-- SOLID Principles  
-- Modular Architecture  
-
-### ⚙️ Core Technologies
-- Coroutines, Flow, RxJava  
-- Retrofit, OkHttp, GraphQL, WebSockets  
-- Room, SQLite, Firebase, Drift  
-
-### 🔐 Cloud & Backend
-- Firebase (Crashlytics, FCM, Analytics, Auth)  
-- AWS Cognito, AWS Amplify  
-- OAuth 2.0, JWT  
-
-### 🔌 IoT & Embedded Systems
-- BLE (GATT), NRF Mesh  
-- MQTT Protocol  
-- CAN Bus (J1939, OBD-II)  
-- OTA Firmware Updates  
-
-### 🧪 Testing & Quality
-- JUnit, Mockito, MockK  
-- Espresso, UI Automator  
-- TDD / BDD (80%+ coverage, 3000+ test cases)
-
-### 🚀 DevOps & CI/CD
-- Fastlane, GitHub Actions, Jenkins  
-- Play Store Automation & Release Management  
+### 🛠 Technical Toolbox (From Skills.csv)
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | [cite_start]Kotlin, Java, Dart, Python, JavaScript, PHP (Laravel), XML, SQL, HTML/CSS [cite: 102, 90] |
+| **Mobile Tech** | [cite_start]Android SDK, Jetpack Compose, KMP, Flutter, MVVM, MVI, Clean Architecture [cite: 96, 103, 104] |
+| **IoT & Protocols** | [cite_start]BLE (GATT), MQTT, CAN Bus (J1939, OBD-II), NRF Mesh, AWS IoT [cite: 111, 90] |
+| **Cloud/Backend** | [cite_start]AWS Amplify, AWS Cognito, Firebase (Crashlytics, Analytics, FCM), REST APIs [cite: 110, 90] |
+| **DevOps** | [cite_start]Fastlane, GitHub Actions, GitLab CI, Jenkins, Gradle, Play Store Management [cite: 112, 90] |
+| **Testing** | [cite_start]JUnit, Mockito, Espresso, TDD, Appium [cite: 109, 90] |
 
 ---
 
-## 💼 Professional Experience
+### 📱 Featured Projects (From Projects.csv)
 
-### 🏢 Senior Software Engineer — MRS Technologies (2021 – Present)
-- Architected **Automotive & IoT apps** using Kotlin, Compose, Flutter  
-- Built BLE + CAN communication layer (J1939, OBD-II)  
-- Implemented **MQTT real-time communication**  
-- Set up **CI/CD pipelines (Fastlane + GitHub Actions)**  
-- Integrated **AWS Cognito & Amplify for secure authentication**  
-- Led Agile teams, code reviews, and system design  
+#### 🏎 **Automotive & IoT**
+* [cite_start]**Connected Logger Gateway:** Smart data logging device using BLE and CAN protocol for real-time machine monitoring and cloud synchronization[cite: 44, 154].
+* [cite_start]**NX NextHMI:** Integrated hardware-software solution for vehicle secondary functions like doors, ignition, and climate control via CAN protocol[cite: 82, 83, 89].
+* [cite_start]**MTronic:** Advanced Home Automation system with seamless routine syncing and voice assistant compatibility[cite: 60, 61, 62].
 
----
+#### 💳 **Fintech & E-commerce**
+* [cite_start]**FoodRunner:** A 3-app ecosystem (Customer, Rider, Restaurant) with live GPS tracking and local payment integration (JazzCash, Easypaisa)[cite: 138, 140, 179].
+* [cite_start]**Easy Coin Budget:** Simple budgeting app with automated transaction tracking via bank account connectivity[cite: 69, 70].
+* [cite_start]**Monthly Earning:** Reward-based platform where users earn via ad engagement and withdraw through mobile wallets[cite: 66, 68].
 
-### 🌍 Senior Mobile Developer — AI Nexus Healthcare (Remote, US)
-- Developed **telemedicine platform (10,000+ users)**  
-- Built **real-time biometric monitoring system** (camera-based vitals)  
-- Improved performance:
-  - ⚡ 40% faster load time  
-  - 🧠 30% memory reduction  
-- Implemented **secure APIs (SSL pinning, JWT)**  
+#### 🏥 **Healthcare & Lifestyle**
+* [cite_start]**Mia Vitals:** Telemedicine app featuring real-time biometric vitals (face & finger detection) and HIPAA-compliant data security[cite: 171, 174, 132].
+* [cite_start]**Sirat-ul-Jannah:** Islamic application utilizing face recognition for mood-based Dua searching and voice recognition[cite: 45, 48, 51].
+* [cite_start]**Migration Resource Centre:** PHP Laravel-based system for candidate registration and appointment scheduling across four countries[cite: 72, 73].
 
 ---
 
-### 👨‍💻 Team Lead — Eikon7
-- Led team of 5 engineers  
-- Built **food delivery ecosystem (3 apps)**  
-- Integrated payments (JazzCash, Easypaisa, Bank Alfalah)  
-- Implemented Firebase (FCM, Auth, Crashlytics, Analytics)  
-- Mentored developers & enforced Clean Architecture  
+### 🏆 Key Career Milestones
+* [cite_start]**Reduced crash rates by 85%** through proactive Firebase monitoring and ANR analysis[cite: 196].
+* [cite_start]**Improved performance by 40%** and memory efficiency by 30% via systematic profiling[cite: 197].
+* [cite_start]**Engineered 3,000+ automated test cases** and established a strong TDD culture across multiple projects[cite: 124, 198].
+* [cite_start]**Led cross-functional Agile teams** and mentored 10+ junior developers in modern Android best practices[cite: 98, 138, 142].
 
 ---
 
-### 👶 Junior Android Developer — Codemaze
-- Developed Android apps using REST APIs  
-- Integrated Firebase, AdMob, In-App Purchases  
-- Optimized apps using ProGuard & R8  
+### 🎓 Academic Excellence
+* **Master of Science in Data Science** | SZABIST | [cite_start]CGPA: **3.49/4.0**[cite: 184, 186].
+* **Bachelor of Computer Science (S.E)** | Federal Urdu University | [cite_start]CGPA: **3.69/4.0**[cite: 189, 191].
 
 ---
 
-## 🚀 Featured Projects
-
-### 🚗 Connected Logger (Automotive Fleet Management)
-- BLE + CAN Bus real-time vehicle data  
-- Live dashboard + offline storage (Room)  
-- CI/CD automated releases  
+### 📈 GitHub Stats
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 ---
 
-### 🏠 MTronic (Smart Home IoT Platform)
-- BLE provisioning + NRF Mesh  
-- AWS-based device control & automation  
-- OTA firmware updates  
+### 🤝 Let's Connect
+I'm always open to discussing **Android architecture**, **IoT hardware integration**, or **Machine Learning** in mobile.
 
----
+* **LinkedIn:** [linkedin.com/in/ahmad-hussain-b3268a15a](https://linkedin.com/in/ahmad-hussain-b3268a15a)
+* **Email:** [ahmadhussain0335@gmail.com](mailto:ahmadhussain0335@gmail.com)
 
-### 🚘 NXNext HMI (Vehicle Control Gateway)
-- Cross-platform Flutter app  
-- Dynamic UI from XML configs  
-- Motion sensor-based vehicle control  
-
----
-
-### 🏥 Mia Vitals (Telemedicine Platform)
-- Real-time biometric monitoring  
-- Stripe payments + geofencing  
-- 10,000+ active users  
-
----
-
-### 🍔 FoodRunner (Food Delivery Ecosystem)
-- Customer, Rider, Restaurant apps  
-- Real-time tracking + live chat  
-- Payment integrations + analytics  
-
----
-
-## 🎓 Education
-
-**MS Data Science** — SZABIST  
-CGPA: 3.49 / 4.0  
-
-**BS Software Engineering** — Federal Urdu University  
-CGPA: 3.69 / 4.0  
-
----
-
-## 🏆 Key Achievements
-
-- 🚀 Delivered **25+ production apps**  
-- ⭐ Maintained **4.5+ Play Store ratings**  
-- 🐞 Reduced crash rate by **85%**  
-- ⚡ Improved performance by **40%**  
-- 🧪 Built **3000+ automated test cases**  
-- 👨‍🏫 Mentored **10+ developers**  
-
----
-
-## 📈 What I Bring
-
-- Scalable mobile architecture expertise  
-- Strong problem-solving & performance optimization  
-- Cross-domain experience (IoT, Healthcare, Automotive)  
-- Leadership + hands-on coding balance  
-
----
-
-## 🤝 Let’s Connect
-
-I’m open to:
-- Senior Android roles  
-- Remote/global opportunities  
-- High-impact product teams  
-
-📩 Feel free to reach out via email or LinkedIn!
+*"Building the future of mobile through hardware-software synergy."*
