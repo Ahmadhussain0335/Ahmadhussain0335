@@ -78,8 +78,9 @@ val ahmad = Developer(
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### 🔵 IoT & Communication
-![Bluetooth](https://img.shields.io/badge/BLE%2FGatt-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/BLE%2FGATT-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
+![CAN Bus](https://img.shields.io/badge/CAN%20Bus%20%2F%20J1939-FF5722?style=for-the-badge)
 ![IoT](https://img.shields.io/badge/AWS%20IoT%20Core-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🧪 Testing & QA
@@ -161,7 +162,7 @@ val ahmad = Developer(
 │  Softgrip Tech                       Android Developer (Internship)     │
 │  Islamabad, Pakistan                          Feb 2017 – May 2017       │
 ├─────────────────────────────────────────────────────────────────────────┤
-│  • Responsive UI design, SQLite DB, REST APIs, 3rd-party integrations   │
+│  • Responsive UI, SQLite DB, REST APIs & 3rd-party integrations         │
 │  • Published apps on Google Play Developer Console                     │
 └─────────────────────────────────────────────────────────────────────────┘
 
@@ -175,47 +176,46 @@ val ahmad = Developer(
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Projects
 
-### 🚗 Connected Logger — Automotive Fleet Management
-> **MRS Technologies** · [Play Store](https://play.google.com/store)
+### 🚗 Connected Logger Gateway — Automotive IoT Fleet Management
+> **MRS Technologies** · `Apr 2021 – Present`
 
 **Tech Stack:** `Kotlin` `Jetpack Compose` `MVVM` `Dagger` `BLE/GATT` `CAN J1939` `OBD-II` `MQTT` `Room` `Fastlane` `JUnit` `Espresso`
 
-- Native Android app for real-time vehicle fleet monitoring — BLE device discovery, secure pairing, CAN signal streaming, GPS tracking & flash log export
-- Built reactive live data dashboard for CAN signals and vehicle events
-- Designed Room persistence layer for offline log storage & backend sync
-- Automated Play Store CI/CD with Fastlane; high stability with 3,000+ automated test cases
+ECE & RED certified smart data logging device for capturing and storing data from multiple machine buses (CAN & LIN). The Android control app handles configuration and maintenance of the Connected Logger hardware device.
+
+- BLE communication for device discovery, secure pairing & real-time CAN signal streaming
+- MQTT connections for efficient, lightweight messaging between devices and the Spoke Zone cloud server
+- Reactive live data dashboard for CAN signals and vehicle events with Room-based offline log storage
+- Automated Play Store CI/CD with Fastlane + GitHub Actions; 3,000+ automated test cases
+
+---
+
+### 🚙 NX NextHMI — Automotive Vehicle Control Gateway
+> **MRS Technologies** · `Nov 2022 – Oct 2023`
+
+**Tech Stack:** `Flutter` `Dart` `GetX` `BLE` `CAN Protocol` `Deep Linking` `XML Parsing` `Accelerometer` `Gyroscope`
+
+A groundbreaking integrated hardware-software solution by Arnold NextG for managing secondary vehicle functions via CAN (Controller Area Network) protocol, replacing fragmented auxiliary systems with a single unified interface.
+
+- Dynamic UI loaded from server XML configs — custom configurations & OTA updates without hardware changes
+- Controls: doors, windows, cassette lift, warning system, ignition, horn, air conditioning
+- Integrated motion sensor controls (accelerometer, gyroscope) for intuitive remote vehicle operation
+- Cross-platform delivery on both Android (Play Store) & iOS (App Store)
 
 ---
 
 ### 🏠 MTronic — Smart Home Automation
-> **MRS Technologies** · [Play Store](https://play.google.com/store)
+> **MRS Technologies** · `May 2022 – Present`
 
 **Tech Stack:** `Kotlin` `Jetpack Compose` `MVVM` `Hilt` `AWS Cognito` `AWS Amplify` `BLE` `NRF Mesh` `MQTT` `Fastlane`
 
-- Android app for smart home device control: scenes, automations & device management via AWS Amplify with OAuth 2.0
-- Implemented BLE provisioning & NRF Mesh networking for seamless onboarding & OTA firmware updates of smart home hardware
+Pakistan's most advanced and feature-loaded Home Automation system. Syncs seamlessly to user routines with voice assistant compatibility for the ultimate intelligent home experience.
 
----
-
-### 🚙 NX Next HMI — Automotive Gateway
-> **MRS Technologies** · [App Store](https://apps.apple.com) | [Play Store](https://play.google.com/store)
-
-**Tech Stack:** `Flutter` `Dart` `GetX` `BLE` `CAN Protocol` `Deep Linking` `XML Parsing` `Accelerometer` `Gyroscope`
-
-- Cross-platform vehicle control gateway with dynamic UI generated from XML config files, deep linking & real-time CAN data over BLE
-- Integrated motion sensor controls (accelerometer, gyroscope) for remote vehicle operations: doors, ignition, windows, horn & climate
-
----
-
-### 🔨 Mafell AG — Construction Tool
-> **MRS Technologies**
-
-**Tech Stack:** `Flutter` `Dart` `Flutter Canvas` `Custom Painter` `Drift Database` `Unit Testing (3,000+ cases)`
-
-- German construction app for brick wall layout planning with custom cutting angle algorithms rendered via Flutter Canvas & Custom Painter
-- Robust offline-first architecture using Drift database; comprehensive automated test suite with **3,000+ unit test cases**
+- Smart device control: scenes, automations & device management via AWS Amplify with OAuth 2.0
+- BLE provisioning & NRF Mesh networking for seamless onboarding & OTA firmware updates
+- MQTT publish/subscribe for real-time bidirectional communication with smart home hardware
 
 ---
 
@@ -224,20 +224,117 @@ val ahmad = Developer(
 
 **Tech Stack:** `Flutter` `BLoC` `Socket.IO` `CameraX` `Stripe` `Firebase` `Google Maps` `Retrofit` `RxJava` `SSL Pinning`
 
-- Telemedicine app for **10,000+ users** with real-time biometric vitals (face & finger detection), live dashboards & secure video consultations
-- Achieved **30% memory reduction** & **40% load time improvement**; **80%+ test coverage**; Stripe payments with fraud prevention & geofencing
-- HIPAA-compliant: SSL certificate pinning, encrypted REST APIs, JWT-based authentication
+Telemedicine platform serving **10,000+ active users** with real-time biometric vitals detection (face & finger), live dashboards & secure video consultations. Fully HIPAA-compliant.
+
+- Real-time biometric monitoring via camera frame streaming & Socket.IO dashboards
+- SSL certificate pinning, encrypted REST APIs & JWT-based auth for HIPAA data security
+- Stripe payment gateway with fraud prevention logic & Google Maps with custom geofencing
+- **30% memory reduction** · **40% faster load times** · **80%+ unit test coverage**
 
 ---
 
-### 🍔 Food Runner — On-Demand Food Delivery Platform
-> **Eikon7** · Customer | Rider | Restaurant apps
+### 🍔 FoodRunner — On-Demand Food Delivery Platform
+> **Eikon7** · [Customer App](https://apkpure.com/foodrunner-speedy-food-delivery/com.app.FoodRunner) · [Rider App](https://apkpure.com/fr-rider/com.app.foodrunnerdriver) · [Restaurant App](https://apkpure.com/fr-restaurant/com.app.resturantfoodrunnerapps)
 
-**Tech Stack:** `Java` `Android` `MVVM` `Google Maps SDK` `Socket.IO` `Firebase Suite` `JazzCash` `Easypaisa` `Geo-Fencing API`
+**Tech Stack:** `Java` `Android` `MVVM` `Google Maps SDK` `Socket.IO` `Firebase Suite` `JazzCash` `Easypaisa` `Bank Alfalah` `Geo-Fencing` `Zendesk`
 
-- 3-app ecosystem (Customer, Rider, Restaurant) with real-time GPS order tracking, Socket.IO live chat, geo-fencing & revenue analytics dashboards
-- Integrated 3 local payment gateways, in-app wallet, & automated rider salary disbursement engine
-- Deployed full Firebase suite for auth, push notifications & fraud detection
+3-app ecosystem (Customer, Rider, Restaurant) — real-time GPS order tracking with live delivery monitoring, geo-fencing for location-based restaurant suggestions, and automated rider salary disbursement.
+
+- Integrated 3 local payment gateways (JazzCash, Easypaisa, Bank Alfalah) + in-app wallet
+- Firebase suite: FCM, Auth, Crashlytics, Analytics, In-App Messaging, Remote Config
+- Zendesk real-time chat support & Socket.IO live order chat
+- Facebook SDK, Google Maps API & geo-fencing for smart location-based features
+
+---
+
+### 🕌 Sirat-ul-Jannah — Islamic App
+> `Jan 2018 – Apr 2018`
+
+**Tech Stack:** `Android` `Java` `Face Recognition` `Voice Recognition` `Firebase` `Islamic Calendar API`
+
+A comprehensive Islamic application for Muslims and non-Muslims seeking knowledge about Islam, featuring AI-powered personalization.
+
+- Feeling & thought-based Dua searching via voice recognition
+- Face recognition to detect mood and serve personalized Islamic content
+- Daily Hadith notifications with detailed explanations
+- Islamic & occasion calendar, information about the Holy Prophet ﷺ
+
+---
+
+### 🎓 TimesGo — University Student Companion
+> **FUUAST** · `Jun 2017 – Oct 2018`
+
+**Tech Stack:** `Android` `Java` `Firebase` `Google Maps` `SQLite`
+
+All-in-one app for FUUAST university students to manage academic life efficiently.
+
+- Daily timetable with class reminders & timely notifications
+- Assessment & quiz tracker with live peer chat
+- Campus navigation with location features
+- Academic progress visualization via grade graphs
+
+---
+
+### 💰 Monthly Earning — Ad Reward Platform
+> `Aug 2017 – Jan 2018`
+
+**Tech Stack:** `Android` `Java` `Google Ads SDK` `Facebook Ads SDK` `JazzCash API` `Easypaisa API`
+
+A reward-based earning platform where users watch Google and Facebook ads to accumulate earnings, withdrawable via JazzCash or Easypaisa.
+
+---
+
+### 🌍 Migration Resource Centre — Laravel Web Platform
+> `Jul 2019 – Sep 2020`
+
+**Tech Stack:** `PHP` `Laravel` `MySQL` `REST API`
+
+A comprehensive management system for migration candidates across four countries. Users can register, schedule appointments and access tailored resources — streamlining the entire migration process.
+
+---
+
+### 📺 Watch TV Live — Multi-Channel Live Streaming App
+> `Aug 2017 – Dec 2017`
+
+**Tech Stack:** `Android` `Java` `REST API` `Video Streaming`
+
+Live TV streaming app with 200+ live channels and 500+ VOD channels from USA, UK, Germany, Italy, Asia & the Middle East — covering sports, news, kids, Islamic, Pakistani & Indian drama channels.
+
+---
+
+### 📺 FoodsBite — Food Delivery App
+> `Nov 2017 – Jul 2018`
+
+**Tech Stack:** `Android` `Java` `REST API` `Google Maps`
+
+On-demand food delivery app connecting users with local restaurants for fast, convenient food ordering right to their door.
+
+---
+
+### 💬 WStatus — WhatsApp Status & Media App
+> `Dec 2017 – Feb 2018`
+
+**Tech Stack:** `Android` `Java` `Firebase`
+
+Status & media sharing app featuring romantic pics, love quotes, funny content, Qawali, sad & happy love pics and videos — with one-tap WhatsApp status setting.
+
+---
+
+### 🎙️ Call Recorder Pro
+> `Jan 2018 – Oct 2018`
+
+**Tech Stack:** `Android` `Java` `Audio API`
+
+Free voice call recording app with easy sharing and playback functionality.
+
+---
+
+### 💵 Easy Coin Budget — Personal Finance App
+> `Mar 2017 – May 2017` *(Softgrip Tech Internship Project)*
+
+**Tech Stack:** `Android` `Java` `SQLite` `Bank API`
+
+Intuitive daily budgeting app with income tracking, expense tracking, savings goals, paycheck management, and optional bank account connection for automated transaction tracking.
 
 ---
 
@@ -248,16 +345,14 @@ val ahmad = Developer(
     <td align="center" width="50%">
       <h3>🎓 Master of Science in Data Science</h3>
       <strong>Shaheed Zulfikar Ali Bhutto Institute of Science & Technology</strong><br/>
-      Islamabad, Pakistan · 2019 – 2021<br/>
-      <br/>
+      Islamabad, Pakistan · 2019 – 2021<br/><br/>
       <strong>CGPA: 3.49 / 4.0</strong><br/>
       <em>Machine Learning · Deep Learning · AI · Cloud Computing</em>
     </td>
     <td align="center" width="50%">
       <h3>🎓 Bachelor of Computer Science – Software Engineering</h3>
       <strong>Federal Urdu University of Arts, Sciences & Technology</strong><br/>
-      Islamabad, Pakistan · 2014 – 2018<br/>
-      <br/>
+      Islamabad, Pakistan · 2014 – 2018<br/><br/>
       <strong>CGPA: 3.69 / 4.0</strong><br/>
       <em>Data Structures · DBMS · OOP · Information Technology</em>
     </td>
@@ -272,7 +367,7 @@ val ahmad = Developer(
 Android Development     ████████████████████  9+ Years  ⭐⭐⭐⭐⭐
 Kotlin / Java           ████████████████████  9+ Years  ⭐⭐⭐⭐⭐
 Flutter / Dart          ████████████████░░░░  4+ Years  ⭐⭐⭐⭐
-IoT / BLE               ███████████████░░░░░  4+ Years  ⭐⭐⭐⭐
+IoT / BLE / CAN Bus     ███████████████░░░░░  4+ Years  ⭐⭐⭐⭐
 CI/CD (Fastlane)        ████████████████░░░░  4+ Years  ⭐⭐⭐⭐
 AWS / Firebase          ██████████████░░░░░░  5+ Years  ⭐⭐⭐⭐
 Data Science / ML       ██████████░░░░░░░░░░  3+ Years  ⭐⭐⭐
