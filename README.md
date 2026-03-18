@@ -1,70 +1,317 @@
-# 🚀 Ahmad Hussain | Senior Android & IoT Architect
-**Senior Software Engineer at MRS Electronic Group**
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-hussain-b3268a15a) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadhussain0335@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/Islamabad)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Ahmad%20Hussain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Senior%20Android%20Developer%20%7C%209%2B%20Years%20Experience&descAlignY=58&descColor=e0d7ff" />
 
-### 👨‍💻 About Me
-[cite_start]Senior Android Developer with **9+ years of experience** [cite: 95] [cite_start]delivering **25+ production-grade mobile applications**[cite: 99]. [cite_start]I specialize in architecting scalable, high-performance apps across **Automotive, IoT, Fintech, and Healthcare**[cite: 95]. [cite_start]I am an expert in **Kotlin, Java, and Flutter**, with a deep focus on **BLE, MQTT, and CAN Bus** protocols[cite: 96, 98, 111].
+</div>
 
----
+<div align="center">
 
-### 🛠 Technical Toolbox (From Skills.csv)
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | [cite_start]Kotlin, Java, Dart, Python, JavaScript, PHP (Laravel), XML, SQL, HTML/CSS [cite: 102, 90] |
-| **Mobile Tech** | [cite_start]Android SDK, Jetpack Compose, KMP, Flutter, MVVM, MVI, Clean Architecture [cite: 96, 103, 104] |
-| **IoT & Protocols** | [cite_start]BLE (GATT), MQTT, CAN Bus (J1939, OBD-II), NRF Mesh, AWS IoT [cite: 111, 90] |
-| **Cloud/Backend** | [cite_start]AWS Amplify, AWS Cognito, Firebase (Crashlytics, Analytics, FCM), REST APIs [cite: 110, 90] |
-| **DevOps** | [cite_start]Fastlane, GitHub Actions, GitLab CI, Jenkins, Gradle, Play Store Management [cite: 112, 90] |
-| **Testing** | [cite_start]JUnit, Mockito, Espresso, TDD, Appium [cite: 109, 90] |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Hussain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-hussain-b3268a15a)
+[![Email](https://img.shields.io/badge/Email-ahmadhussain0335%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadhussain0335@gmail.com)
+[![Location](https://img.shields.io/badge/📍-Islamabad%2C%20Pakistan-2196F3?style=for-the-badge)](https://maps.google.com/?q=Islamabad,Pakistan)
+[![Phone](https://img.shields.io/badge/📱-%2B92%20311%209209684-25D366?style=for-the-badge)](tel:+923119209684)
+
+</div>
 
 ---
 
-### 📱 Featured Projects (From Projects.csv)
+## 👨‍💻 About Me
 
-#### 🏎 **Automotive & IoT**
-* [cite_start]**Connected Logger Gateway:** Smart data logging device using BLE and CAN protocol for real-time machine monitoring and cloud synchronization[cite: 44, 154].
-* [cite_start]**NX NextHMI:** Integrated hardware-software solution for vehicle secondary functions like doors, ignition, and climate control via CAN protocol[cite: 82, 83, 89].
-* [cite_start]**MTronic:** Advanced Home Automation system with seamless routine syncing and voice assistant compatibility[cite: 60, 61, 62].
+> **Senior Android Developer** with **9+ years** of experience delivering production-grade mobile applications across **Automotive, Healthcare, IoT, Fintech, and E-commerce** domains.
 
-#### 💳 **Fintech & E-commerce**
-* [cite_start]**FoodRunner:** A 3-app ecosystem (Customer, Rider, Restaurant) with live GPS tracking and local payment integration (JazzCash, Easypaisa)[cite: 138, 140, 179].
-* [cite_start]**Easy Coin Budget:** Simple budgeting app with automated transaction tracking via bank account connectivity[cite: 69, 70].
-* [cite_start]**Monthly Earning:** Reward-based platform where users earn via ad engagement and withdraw through mobile wallets[cite: 66, 68].
+I specialize in architecting scalable, high-performance apps using modern Android patterns and have delivered **25+ production applications** with consistent 4.5+ Play Store ratings. Deep expertise in **Kotlin, Java, Jetpack Compose, KMP/CMP**, and **Flutter**, with a proven track record in BLE/IoT protocols, CI/CD automation, and leading cross-functional Agile teams.
 
-#### 🏥 **Healthcare & Lifestyle**
-* [cite_start]**Mia Vitals:** Telemedicine app featuring real-time biometric vitals (face & finger detection) and HIPAA-compliant data security[cite: 171, 174, 132].
-* [cite_start]**Sirat-ul-Jannah:** Islamic application utilizing face recognition for mood-based Dua searching and voice recognition[cite: 45, 48, 51].
-* [cite_start]**Migration Resource Centre:** PHP Laravel-based system for candidate registration and appointment scheduling across four countries[cite: 72, 73].
-
----
-
-### 🏆 Key Career Milestones
-* [cite_start]**Reduced crash rates by 85%** through proactive Firebase monitoring and ANR analysis[cite: 196].
-* [cite_start]**Improved performance by 40%** and memory efficiency by 30% via systematic profiling[cite: 197].
-* [cite_start]**Engineered 3,000+ automated test cases** and established a strong TDD culture across multiple projects[cite: 124, 198].
-* [cite_start]**Led cross-functional Agile teams** and mentored 10+ junior developers in modern Android best practices[cite: 98, 138, 142].
+```kotlin
+val ahmad = Developer(
+    name        = "Ahmad Hussain",
+    role        = "Senior Android Developer",
+    experience  = "9+ Years",
+    location    = "Islamabad, Pakistan",
+    languages   = listOf("Kotlin", "Java", "Dart", "Python", "JavaScript"),
+    passion     = "Building seamless mobile experiences that make a difference"
+)
+```
 
 ---
 
-### 🎓 Academic Excellence
-* **Master of Science in Data Science** | SZABIST | [cite_start]CGPA: **3.49/4.0**[cite: 184, 186].
-* **Bachelor of Computer Science (S.E)** | Federal Urdu University | [cite_start]CGPA: **3.69/4.0**[cite: 189, 191].
+## 🏆 Key Achievements
+
+<div align="center">
+
+| 🚀 | Achievement |
+|:---:|:---|
+| 📱 | Delivered **25+ production apps** across Automotive, E-commerce, IoT, Fintech & Healthcare with 4.5+ Play Store ratings |
+| 🐛 | Reduced app crash rate by **85%** through Firebase Crashlytics monitoring & robust error handling |
+| ⚡ | Improved app performance by **40%** & memory efficiency by **30%** via systematic profiling & architectural refactoring |
+| 🧪 | Established TDD culture with **3,000+ automated test cases** and **80%+ code coverage** across multiple projects |
+| 👥 | Mentored **10+ junior & mid-level developers** in Kotlin, Clean Architecture & Jetpack Compose |
+| 🏥 | Scaled a telemedicine platform to serve **10,000+ active users** with real-time biometric monitoring |
+
+</div>
 
 ---
 
-### 📈 GitHub Stats
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+## 🛠️ Technical Skills
+
+### 📱 Mobile Platforms
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🎨 UI Frameworks
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
+![XML](https://img.shields.io/badge/XML%20Layouts-FF6600?style=for-the-badge)
+
+### 🏗️ Architecture & Patterns
+![MVVM](https://img.shields.io/badge/MVVM-FF6B6B?style=for-the-badge)
+![MVI](https://img.shields.io/badge/MVI-4ECDC4?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-45B7D1?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID%20Principles-96CEB4?style=for-the-badge)
+
+### ☁️ Cloud & Backend
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🔵 IoT & Communication
+![Bluetooth](https://img.shields.io/badge/BLE%2FGatt-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
+![IoT](https://img.shields.io/badge/AWS%20IoT%20Core-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🧪 Testing & QA
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-00BCD4?style=for-the-badge)
+![Espresso](https://img.shields.io/badge/Espresso-795548?style=for-the-badge)
+![TDD](https://img.shields.io/badge/TDD-E91E63?style=for-the-badge)
+
+### ⚙️ CI/CD & DevOps
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### 🗄️ Databases
+![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase Realtime](https://img.shields.io/badge/Firebase%20Realtime%20DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🌐 Web & Other
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP%20%2F%20Laravel-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
 
-### 🤝 Let's Connect
-I'm always open to discussing **Android architecture**, **IoT hardware integration**, or **Machine Learning** in mobile.
+## 💼 Professional Experience
 
-* **LinkedIn:** [linkedin.com/in/ahmad-hussain-b3268a15a](https://linkedin.com/in/ahmad-hussain-b3268a15a)
-* **Email:** [ahmadhussain0335@gmail.com](mailto:ahmadhussain0335@gmail.com)
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  MRS Technologies                    Senior Software Engineer           │
+│  Islamabad, Pakistan                            Apr 2021 – Present      │
+├─────────────────────────────────────────────────────────────────────────┤
+│  • Architected 4 production apps across Automotive & IoT (Kotlin,       │
+│    Flutter, Jetpack Compose, Clean Architecture, MVVM/MVI)              │
+│  • Designed BLE communication layer: CAN/J1939, OBD-II, NRF Mesh,      │
+│    GATT, OTA firmware updates                                           │
+│  • Established CI/CD with Fastlane + GitHub Actions, automated Play     │
+│    Store deployment & Microsoft Teams notifications                     │
+│  • Built 3,000+ automated test cases (JUnit, Mockito, Espresso)         │
+│  • AWS Cognito & Amplify for OAuth 2.0 auth & device provisioning       │
+└─────────────────────────────────────────────────────────────────────────┘
 
-*"Building the future of mobile through hardware-software synergy."*
+┌─────────────────────────────────────────────────────────────────────────┐
+│  AI Nexus Healthcare (Remote – US)   Senior Mobile Developer            │
+│                                              Aug 2022 – Mar 2024        │
+├─────────────────────────────────────────────────────────────────────────┤
+│  • Built & scaled telemedicine platform serving 10,000+ active users    │
+│    (Flutter, Dart, BLoC state management)                               │
+│  • Real-time biometric monitoring via CameraX & Socket.IO dashboards    │
+│  • SSL pinning, encrypted REST APIs, JWT auth – HIPAA compliant         │
+│  • 30% memory reduction | 40% faster load times | 80%+ test coverage    │
+└─────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────┐
+│  Eikon7 Creative                     Team Lead – Mobile Developer       │
+│  Islamabad, Pakistan                         Oct 2018 – Apr 2021        │
+├─────────────────────────────────────────────────────────────────────────┤
+│  • Led 5-engineer team to ship multi-app food delivery ecosystem        │
+│    (Customer, Rider, Restaurant) using native Android + MVVM            │
+│  • Integrated JazzCash, Easypaisa, BankAlfalah + in-app wallet         │
+│  • Deployed full Firebase suite with ML-based fraud detection           │
+│  • Mentored 5+ junior developers in MVVM & Clean Architecture           │
+└─────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────┐
+│  Codemaze Pvt. Ltd                   Junior Android Developer           │
+│  Rawalpindi, Pakistan                         May 2017 – Oct 2018       │
+├─────────────────────────────────────────────────────────────────────────┤
+│  • Built consumer Android apps with Retrofit, OkHttp3 REST APIs         │
+│  • FCM push notifications, AdMob, in-app purchases (IAP)               │
+│  • Published releases via Fastlane CI/CD; ProGuard/R8 optimization     │
+└─────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────┐
+│  Softgrip Tech                       Android Developer (Internship)     │
+│  Islamabad, Pakistan                          Feb 2017 – May 2017       │
+├─────────────────────────────────────────────────────────────────────────┤
+│  • Responsive UI design, SQLite DB, REST APIs, 3rd-party integrations   │
+│  • Published apps on Google Play Developer Console                     │
+└─────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────┐
+│  Fiverr                              Mobile & Web Developer (Freelance) │
+│                                              Dec 2017 – Jul 2022        │
+├─────────────────────────────────────────────────────────────────────────┤
+│  • 5+ years freelancing: websites, admin panels, e-commerce mobile apps │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🚀 Key Projects
+
+### 🚗 Connected Logger — Automotive Fleet Management
+> **MRS Technologies** · [Play Store](https://play.google.com/store)
+
+**Tech Stack:** `Kotlin` `Jetpack Compose` `MVVM` `Dagger` `BLE/GATT` `CAN J1939` `OBD-II` `MQTT` `Room` `Fastlane` `JUnit` `Espresso`
+
+- Native Android app for real-time vehicle fleet monitoring — BLE device discovery, secure pairing, CAN signal streaming, GPS tracking & flash log export
+- Built reactive live data dashboard for CAN signals and vehicle events
+- Designed Room persistence layer for offline log storage & backend sync
+- Automated Play Store CI/CD with Fastlane; high stability with 3,000+ automated test cases
+
+---
+
+### 🏠 MTronic — Smart Home Automation
+> **MRS Technologies** · [Play Store](https://play.google.com/store)
+
+**Tech Stack:** `Kotlin` `Jetpack Compose` `MVVM` `Hilt` `AWS Cognito` `AWS Amplify` `BLE` `NRF Mesh` `MQTT` `Fastlane`
+
+- Android app for smart home device control: scenes, automations & device management via AWS Amplify with OAuth 2.0
+- Implemented BLE provisioning & NRF Mesh networking for seamless onboarding & OTA firmware updates of smart home hardware
+
+---
+
+### 🚙 NX Next HMI — Automotive Gateway
+> **MRS Technologies** · [App Store](https://apps.apple.com) | [Play Store](https://play.google.com/store)
+
+**Tech Stack:** `Flutter` `Dart` `GetX` `BLE` `CAN Protocol` `Deep Linking` `XML Parsing` `Accelerometer` `Gyroscope`
+
+- Cross-platform vehicle control gateway with dynamic UI generated from XML config files, deep linking & real-time CAN data over BLE
+- Integrated motion sensor controls (accelerometer, gyroscope) for remote vehicle operations: doors, ignition, windows, horn & climate
+
+---
+
+### 🔨 Mafell AG — Construction Tool
+> **MRS Technologies**
+
+**Tech Stack:** `Flutter` `Dart` `Flutter Canvas` `Custom Painter` `Drift Database` `Unit Testing (3,000+ cases)`
+
+- German construction app for brick wall layout planning with custom cutting angle algorithms rendered via Flutter Canvas & Custom Painter
+- Robust offline-first architecture using Drift database; comprehensive automated test suite with **3,000+ unit test cases**
+
+---
+
+### 🏥 MiaVitals — Telemedicine & Remote Patient Monitoring
+> **AI Nexus Healthcare** · [miavitals.com](https://miavitals.com)
+
+**Tech Stack:** `Flutter` `BLoC` `Socket.IO` `CameraX` `Stripe` `Firebase` `Google Maps` `Retrofit` `RxJava` `SSL Pinning`
+
+- Telemedicine app for **10,000+ users** with real-time biometric vitals (face & finger detection), live dashboards & secure video consultations
+- Achieved **30% memory reduction** & **40% load time improvement**; **80%+ test coverage**; Stripe payments with fraud prevention & geofencing
+- HIPAA-compliant: SSL certificate pinning, encrypted REST APIs, JWT-based authentication
+
+---
+
+### 🍔 Food Runner — On-Demand Food Delivery Platform
+> **Eikon7** · Customer | Rider | Restaurant apps
+
+**Tech Stack:** `Java` `Android` `MVVM` `Google Maps SDK` `Socket.IO` `Firebase Suite` `JazzCash` `Easypaisa` `Geo-Fencing API`
+
+- 3-app ecosystem (Customer, Rider, Restaurant) with real-time GPS order tracking, Socket.IO live chat, geo-fencing & revenue analytics dashboards
+- Integrated 3 local payment gateways, in-app wallet, & automated rider salary disbursement engine
+- Deployed full Firebase suite for auth, push notifications & fraud detection
+
+---
+
+## 🎓 Education
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎓 Master of Science in Data Science</h3>
+      <strong>Shaheed Zulfikar Ali Bhutto Institute of Science & Technology</strong><br/>
+      Islamabad, Pakistan · 2019 – 2021<br/>
+      <br/>
+      <strong>CGPA: 3.49 / 4.0</strong><br/>
+      <em>Machine Learning · Deep Learning · AI · Cloud Computing</em>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎓 Bachelor of Computer Science – Software Engineering</h3>
+      <strong>Federal Urdu University of Arts, Sciences & Technology</strong><br/>
+      Islamabad, Pakistan · 2014 – 2018<br/>
+      <br/>
+      <strong>CGPA: 3.69 / 4.0</strong><br/>
+      <em>Data Structures · DBMS · OOP · Information Technology</em>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Domain Expertise
+
+```
+Android Development     ████████████████████  9+ Years  ⭐⭐⭐⭐⭐
+Kotlin / Java           ████████████████████  9+ Years  ⭐⭐⭐⭐⭐
+Flutter / Dart          ████████████████░░░░  4+ Years  ⭐⭐⭐⭐
+IoT / BLE               ███████████████░░░░░  4+ Years  ⭐⭐⭐⭐
+CI/CD (Fastlane)        ████████████████░░░░  4+ Years  ⭐⭐⭐⭐
+AWS / Firebase          ██████████████░░░░░░  5+ Years  ⭐⭐⭐⭐
+Data Science / ML       ██████████░░░░░░░░░░  3+ Years  ⭐⭐⭐
+Web Dev (Laravel/PHP)   ████████░░░░░░░░░░░░  3+ Years  ⭐⭐⭐
+```
+
+---
+
+## 🌐 Industry Domains
+
+<div align="center">
+
+| 🚗 Automotive | 🏥 Healthcare | 🏠 IoT / Smart Home | 🛒 E-Commerce | 💰 FinTech |
+|:---:|:---:|:---:|:---:|:---:|
+| Fleet Management | Telemedicine | BLE Devices | Food Delivery | Payment Gateways |
+| OBD-II / CAN Bus | Remote Monitoring | MQTT / AWS IoT | Order Tracking | JazzCash / Easypaisa |
+| Vehicle Gateway | HIPAA Compliance | OTA Firmware | Multi-vendor | Stripe / Fraud Detection |
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+I'm always open to discussing **exciting Android projects**, **IoT integrations**, or **cross-platform mobile opportunities**.
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-hussain-b3268a15a)
+[![Email Me](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadhussain0335@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+</div>
