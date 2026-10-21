@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Ahmad%20Hussain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Senior%20Android%20Developer%20%7C%209%2B%20Years%20Experience&descAlignY=58&descColor=e0d7ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Ahmad%20Hussain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Senior%20Mobile%20Engineer%20%7C%20Android%2C%20Kotlin%20%26%20Flutter&descAlignY=58&descColor=e0d7ff" />
 
 </div>
 
@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Hussain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-hussain-b3268a15a)
 [![Email](https://img.shields.io/badge/Email-ahmadhussain0335%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadhussain0335@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Islamabad%2C%20Pakistan-2196F3?style=for-the-badge)](https://maps.google.com/?q=Islamabad,Pakistan)
-[![Phone](https://img.shields.io/badge/📱-%2B92%20311%209209684-25D366?style=for-the-badge)](tel:+923119209684)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahmadhussain.dev-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahmadhussain.dev)
 
 </div>
 
@@ -17,16 +17,19 @@
 
 ## 👨‍💻 About Me
 
-> **Senior Android Developer** with **9+ years** of experience delivering production-grade mobile applications across **Automotive, Healthcare, IoT, Fintech, and E-commerce** domains.
+> **Senior Mobile Engineer** with **9+ years** of Android (Kotlin, Java) and **5+ years** of Flutter experience delivering production-grade mobile applications across **Automotive, Healthcare, IoT, Fintech, and E-commerce** domains.
 
-I specialize in architecting scalable, high-performance apps using modern Android patterns and have delivered **25+ production applications** with consistent 4.5+ Play Store ratings. Deep expertise in **Kotlin, Java, Jetpack Compose, KMP/CMP**, and **Flutter**, with a proven track record in BLE/IoT protocols, CI/CD automation, and leading cross-functional Agile teams.
+I build production apps for automotive, IoT and connected-device products on Clean Architecture and MVVM, with **Kotlin, Java, Jetpack Compose** and **Flutter**, and own App Store and Google Play releases end to end. I work hands-on with BLE, CAN and MQTT, CI/CD automation, and mobile security and EU compliance (OWASP MASVS, GDPR, Cyber Resilience Act). Currently exploring Kotlin Multiplatform and Compose Multiplatform.
+
+**Portfolio:** [ahmadhussain.dev](https://ahmadhussain.dev)
 
 ```kotlin
 val ahmad = Developer(
     name        = "Ahmad Hussain",
-    role        = "Senior Android Developer",
+    role        = "Senior Mobile Engineer",
     experience  = "9+ Years",
     location    = "Islamabad, Pakistan",
+    website     = "https://ahmadhussain.dev",
     languages   = listOf("Kotlin", "Java", "Dart", "Python", "JavaScript"),
     passion     = "Building seamless mobile experiences that make a difference"
 )
@@ -40,12 +43,11 @@ val ahmad = Developer(
 
 | 🚀 | Achievement |
 |:---:|:---|
-| 📱 | Delivered **25+ production apps** across Automotive, E-commerce, IoT, Fintech & Healthcare with 4.5+ Play Store ratings |
-| 🐛 | Reduced app crash rate by **85%** through Firebase Crashlytics monitoring & robust error handling |
-| ⚡ | Improved app performance by **40%** & memory efficiency by **30%** via systematic profiling & architectural refactoring |
-| 🧪 | Established TDD culture with **3,000+ automated test cases** and **80%+ code coverage** across multiple projects |
-| 👥 | Mentored **10+ junior & mid-level developers** in Kotlin, Clean Architecture & Jetpack Compose |
-| 🏥 | Scaled a telemedicine platform to serve **10,000+ active users** with real-time biometric monitoring |
+| 📱 | **9+ years** of native Android (Kotlin, Java) and **5+ years** of Flutter in production apps for Automotive, IoT, Healthcare, Fintech & E-commerce |
+| 🧪 | Authored and maintain **3,000+ automated** unit, widget and UI tests; TDD across teams |
+| 🏥 | Delivered a telemedicine app used by **10,000+ active users** with real-time biometric monitoring |
+| 👥 | Led a team of **five engineers** shipping a three-app food delivery platform |
+| 📦 | Published open-source Flutter and TypeScript packages on **pub.dev** and **npm** |
 
 </div>
 
@@ -119,7 +121,7 @@ val ahmad = Developer(
 ├─────────────────────────────────────────────────────────────────────────┤
 │  • Architected 4 production apps across Automotive & IoT (Kotlin,       │
 │    Flutter, Jetpack Compose, Clean Architecture, MVVM/MVI)              │
-│  • Designed BLE communication layer: CAN/J1939, OBD-II, NRF Mesh,      │
+│  • Designed BLE communication layer: CAN/J1939, OBD-II, NRF Mesh,       │
 │    GATT, OTA firmware updates                                           │
 │  • Established CI/CD with Fastlane + GitHub Actions, automated Play     │
 │    Store deployment & Microsoft Teams notifications                     │
@@ -134,8 +136,8 @@ val ahmad = Developer(
 │  • Built & scaled telemedicine platform serving 10,000+ active users    │
 │    (Flutter, Dart, BLoC state management)                               │
 │  • Real-time biometric monitoring via CameraX & Socket.IO dashboards    │
-│  • SSL pinning, encrypted REST APIs, JWT auth – HIPAA compliant         │
-│  • 30% memory reduction | 40% faster load times | 80%+ test coverage    │
+│  • SSL pinning, encrypted REST APIs, JWT auth (healthcare data privacy) │
+│  • Flutter DevTools profiling | 80%+ unit/widget/integration coverage   │
 └─────────────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────────────────┐
@@ -144,9 +146,9 @@ val ahmad = Developer(
 ├─────────────────────────────────────────────────────────────────────────┤
 │  • Led 5-engineer team to ship multi-app food delivery ecosystem        │
 │    (Customer, Rider, Restaurant) using native Android + MVVM            │
-│  • Integrated JazzCash, Easypaisa, BankAlfalah + in-app wallet         │
-│  • Deployed full Firebase suite with ML-based fraud detection           │
-│  • Mentored 5+ junior developers in MVVM & Clean Architecture           │
+│  • Integrated JazzCash, Easypaisa, BankAlfalah + in-app wallet          │
+│  • Deployed full Firebase suite with fraud-detection workflows          │
+│  • Mentored junior developers in MVVM & Clean Architecture              │
 └─────────────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────────────────┐
@@ -154,8 +156,8 @@ val ahmad = Developer(
 │  Rawalpindi, Pakistan                         May 2017 – Oct 2018       │
 ├─────────────────────────────────────────────────────────────────────────┤
 │  • Built consumer Android apps with Retrofit, OkHttp3 REST APIs         │
-│  • FCM push notifications, AdMob, in-app purchases (IAP)               │
-│  • Published releases via Fastlane CI/CD; ProGuard/R8 optimization     │
+│  • FCM push notifications, AdMob, in-app purchases (IAP)                │
+│  • Published releases via Fastlane CI/CD; ProGuard/R8 optimization      │
 └─────────────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────────────────┐
@@ -163,7 +165,7 @@ val ahmad = Developer(
 │  Islamabad, Pakistan                          Feb 2017 – May 2017       │
 ├─────────────────────────────────────────────────────────────────────────┤
 │  • Responsive UI, SQLite DB, REST APIs & 3rd-party integrations         │
-│  • Published apps on Google Play Developer Console                     │
+│  • Published apps on Google Play Developer Console                      │
 └─────────────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────────────────┐
@@ -176,10 +178,23 @@ val ahmad = Developer(
 
 ---
 
+## 📦 Open Source
+
+| Package | Where | What it does |
+|:---|:---|:---|
+| [ble_keeper](https://github.com/Ahmadhussain0335/ble_keeper) | [pub.dev](https://pub.dev/packages/ble_keeper) | Flutter plugin that keeps BLE devices connected in the background and after reboot, on Android and iOS |
+| [can_bus_toolkit](https://github.com/Ahmadhussain0335/can_bus_toolkit) | [pub.dev](https://pub.dev/packages/can_bus_toolkit) | USB CAN adapters on Android with ISO-TP, OBD-II, UDS and DBC decoding |
+| [compliance_kit](https://github.com/Ahmadhussain0335/compliance_kit) | [pub.dev](https://pub.dev/packages/compliance_kit) | PII-redacting logger, GDPR consent and data export, Play Integrity and App Attest (beta) |
+| [mobile-dev-kit](https://github.com/Ahmadhussain0335/mobile-dev-kit) | [npm](https://www.npmjs.com/package/mobile-dev-kit) · [pub.dev](https://pub.dev/packages/mobile_dev_kit) | 19 Agent Skills for mobile code review, OWASP MASVS, EU compliance and release |
+| [trackplan](https://github.com/Ahmadhussain0335/trackplan) | [npm](https://www.npmjs.com/package/trackplan) · [pub.dev](https://pub.dev/packages/trackplan) | Type-safe analytics code for Dart and TypeScript from one YAML tracking plan |
+| [EyeControl](https://github.com/Ahmadhussain0335/EyeMotionDetection) | GitHub | Hands-free Android control with eye and head gestures, using on-device ML Kit |
+
+---
+
 ## 🚀 Projects
 
 ### 🚗 Connected Logger Gateway — Automotive IoT Fleet Management
-> **MRS Technologies** · `Apr 2021 – Present`
+> **MRS Technologies** · `Apr 2021 – Present` · [Google Play](https://play.google.com/store/apps/details?id=com.mrs.gateway) · [App Store](https://apps.apple.com/app/conn-logger/id1584295929)
 
 **Tech Stack:** `Kotlin` `Jetpack Compose` `MVVM` `Dagger` `BLE/GATT` `CAN J1939` `OBD-II` `MQTT` `Room` `Fastlane` `JUnit` `Espresso`
 
@@ -193,11 +208,11 @@ ECE & RED certified smart data logging device for capturing and storing data fro
 ---
 
 ### 🚙 NX NextHMI — Automotive Vehicle Control Gateway
-> **MRS Technologies** · `Nov 2022 – Oct 2023`
+> **MRS Technologies** · `Nov 2022 – Oct 2023` · [App Store](https://apps.apple.com/us/app/nx-nexthmi/id6738198334) · [Google Play](https://play.google.com/store/apps/details?id=com.arnoldnextg.android)
 
 **Tech Stack:** `Flutter` `Dart` `GetX` `BLE` `CAN Protocol` `Deep Linking` `XML Parsing` `Accelerometer` `Gyroscope`
 
-A groundbreaking integrated hardware-software solution by Arnold NextG for managing secondary vehicle functions via CAN (Controller Area Network) protocol, replacing fragmented auxiliary systems with a single unified interface.
+An integrated hardware-software solution by Arnold NextG for managing secondary vehicle functions via CAN (Controller Area Network) protocol, replacing fragmented auxiliary systems with a single unified interface.
 
 - Dynamic UI loaded from server XML configs — custom configurations & OTA updates without hardware changes
 - Controls: doors, windows, cassette lift, warning system, ignition, horn, air conditioning
@@ -207,15 +222,28 @@ A groundbreaking integrated hardware-software solution by Arnold NextG for manag
 ---
 
 ### 🏠 MTronic — Smart Home Automation
-> **MRS Technologies** · `May 2022 – Present`
+> **MRS Technologies** · `May 2022 – Present` · [Google Play](https://play.google.com/store/apps/details?id=com.mtronic.smarthome)
 
 **Tech Stack:** `Kotlin` `Jetpack Compose` `MVVM` `Hilt` `AWS Cognito` `AWS Amplify` `BLE` `NRF Mesh` `MQTT` `Fastlane`
 
-Pakistan's most advanced and feature-loaded Home Automation system. Syncs seamlessly to user routines with voice assistant compatibility for the ultimate intelligent home experience.
+Home automation system with voice assistant compatibility. The native Android app onboards, groups and controls the smart home hardware.
 
 - Smart device control: scenes, automations & device management via AWS Amplify with OAuth 2.0
 - BLE provisioning & NRF Mesh networking for seamless onboarding & OTA firmware updates
 - MQTT publish/subscribe for real-time bidirectional communication with smart home hardware
+
+---
+
+### 🏗️ Mafell ZAS — Roof-Tile Cutting Calculator
+> **MRS Technologies** for **MAFELL AG** · [Google Play](https://play.google.com/store/apps/details?id=com.mafell.zas) · [App Store](https://apps.apple.com/at/app/mafell-zas/id6745941412)
+
+**Tech Stack:** `Flutter` `Dart` `CustomPainter` `Canvas` `Drift` `Schema Migrations` `Unit/Widget Testing`
+
+Offline-first Flutter app that calculates roof-tile cuts for valleys, hips, eaves and verges.
+
+- Custom cutting-angle algorithms rendered with Flutter Canvas and CustomPainter
+- Offline-first persistence on Drift with versioned schema migrations
+- Large automated unit and widget test suite
 
 ---
 
@@ -224,12 +252,12 @@ Pakistan's most advanced and feature-loaded Home Automation system. Syncs seamle
 
 **Tech Stack:** `Flutter` `BLoC` `Socket.IO` `CameraX` `Stripe` `Firebase` `Google Maps` `Retrofit` `RxJava` `SSL Pinning`
 
-Telemedicine platform serving **10,000+ active users** with real-time biometric vitals detection (face & finger), live dashboards & secure video consultations. Fully HIPAA-compliant.
+Telemedicine platform serving **10,000+ active users** with real-time biometric vitals detection (face & finger), live dashboards & secure video consultations.
 
 - Real-time biometric monitoring via camera frame streaming & Socket.IO dashboards
-- SSL certificate pinning, encrypted REST APIs & JWT-based auth for HIPAA data security
+- SSL certificate pinning, encrypted REST APIs & JWT-based auth to support healthcare data security and privacy requirements
 - Stripe payment gateway with fraud prevention logic & Google Maps with custom geofencing
-- **30% memory reduction** · **40% faster load times** · **80%+ unit test coverage**
+- Profiled with Flutter DevTools; **80%+ test coverage** across unit, widget and integration tests
 
 ---
 
@@ -366,7 +394,7 @@ Intuitive daily budgeting app with income tracking, expense tracking, savings go
 ```
 Android Development     ████████████████████  9+ Years  ⭐⭐⭐⭐⭐
 Kotlin / Java           ████████████████████  9+ Years  ⭐⭐⭐⭐⭐
-Flutter / Dart          ████████████████░░░░  4+ Years  ⭐⭐⭐⭐
+Flutter / Dart          ████████████████░░░░  5+ Years  ⭐⭐⭐⭐
 IoT / BLE / CAN Bus     ███████████████░░░░░  4+ Years  ⭐⭐⭐⭐
 CI/CD (Fastlane)        ████████████████░░░░  4+ Years  ⭐⭐⭐⭐
 AWS / Firebase          ██████████████░░░░░░  5+ Years  ⭐⭐⭐⭐
@@ -384,7 +412,7 @@ Web Dev (Laravel/PHP)   ████████░░░░░░░░░░�
 |:---:|:---:|:---:|:---:|:---:|
 | Fleet Management | Telemedicine | BLE Devices | Food Delivery | Payment Gateways |
 | OBD-II / CAN Bus | Remote Monitoring | MQTT / AWS IoT | Order Tracking | JazzCash / Easypaisa |
-| Vehicle Gateway | HIPAA Compliance | OTA Firmware | Multi-vendor | Stripe / Fraud Detection |
+| Vehicle Gateway | Healthcare Data Privacy | OTA Firmware | Multi-vendor | Stripe / Fraud Detection |
 
 </div>
 
@@ -398,6 +426,7 @@ I'm always open to discussing **exciting Android projects**, **IoT integrations*
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-hussain-b3268a15a)
 [![Email Me](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadhussain0335@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-ahmadhussain.dev-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahmadhussain.dev)
 
 </div>
 
